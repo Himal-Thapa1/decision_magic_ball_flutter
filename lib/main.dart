@@ -41,7 +41,7 @@ class _MagicPageState extends State<MagicPage> {
           ),
           ),
         Expanded(
-          flex: 5,
+          flex: 6,
           
           child: Padding(
             padding: const EdgeInsets.all(16.0),
